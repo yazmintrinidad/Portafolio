@@ -1,0 +1,30 @@
+.testimonio-imagen{
+  width: 150px;
+  margin: 20px 0  5px 0;
+}
+
+.carousel-item .container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.testimonio-texto{
+  max-width: 70%;
+  font-size: 20px;
+  margin: 15px 0;
+}
+
+.cliente{
+  font-size: 30px;
+}
+
+.cargo{
+  font-size: 20PX;
+}
+
+.carousel-control-next{
+  color: white;
+}

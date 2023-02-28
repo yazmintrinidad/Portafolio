@@ -1,0 +1,31 @@
+.experience{
+
+  padding: 5rem 1rem;
+
+}
+
+.experience div{
+  margin: 10px 0px;
+}
+
+.logo-experience{
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  border-radius: 200%;
+  padding: 10px 20px;
+}
+
+.div-Experience-Individual{
+  padding: 20px 0;
+  border: 0.1px solid white;
+}
+
+.boton-about-me{
+  margin: 1em 2px;
+}
+
+.div-Experience-Individual:hover{
+  background: white;
+  color:#000;
+}
