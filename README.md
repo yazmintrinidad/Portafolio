@@ -1,7 +1,7 @@
 <div id="Header" align="center">
 
    <img src="https://media.giphy.com/media/KJguq9IjQVGYU/giphy.gif" width="300">   
-   <h1 align="center""">Boceto portafolio 🖌🖌</h1>
+   <h1 align="center">Boceto portafolio 🖌🖌</h1>
    <h3 align="center">Este es mi primer proyecto oficial que realizo con bootstrap, se trata de un pequeño portafolio para un programador, ¡Espero les guste!</h3>
 
 </div>
