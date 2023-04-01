@@ -1,7 +1,7 @@
 <div id="Header" align="center">
 
    <img src="https://media.giphy.com/media/KJguq9IjQVGYU/giphy.gif" width="300">   
-   <h1 align="center">Boceto portafolio 🖌🖌</h1>
+   <h1 align="center">Boceto portafolio 🖌 - Finalizado </h1>
    <h3 align="center">Despues de unos largos meses trabajando solo con Html y Css, tome la decision de ir un paso mas adelante y empece a estudiar Bootstrap
    asi que como resultado de ello realice un portafolio para un desarollador. ¡Espero les guste!</h3>
 </div>
@@ -10,14 +10,13 @@
 
 ###  🧑 Sobre mi:
    
-- Soy un joven colombiano de 16 años apasionado por aprender programacion,actualmente me encuentro en formacion para ser un proximo desarrollador FrontEnd
-   
-- Tengo un gran manejo de herramientas como lo son Html y Css y estoy en la exploracion de realizar y perfeccionar herramientas como lo son
-  Bootstrap y Sass para tener una mejor tecnica de diseño web.
+Soy una persona capacitada para estructurar un proyecto en base al conocimiento en herramientas de FrontEnd, algunas de las herramientas y lenguajes en las cuales me destacó son:
 
-- Tengo un buen manejo en los comandos fundamentales de Git, y gracias a esto puedo tener un buen manejo de mis repositorios locales y remotos. Actualmente me encuentro en la practica de flujos de trabajo como lo es el famoso Gitflow.
-   
-- Actualmente me encuentro estudiando JavaScript en conjunto con React para mejorar mis aplicaciones web. Y en conjunto a eso, estoy en la creacion de mini proyectos para probar mis conocimientos en estas dos tecnologias.
+- Lenguaje y herramientas de diseño como lo son: HTML, Css, Bootstrap y lenguaje SASS.
+
+- Lenguajes de programación y librerías cómo lo son: Javascript y React Js.
+
+- Uso de herramientas de programación como lo son: Git y Github.
    
 ---
 
