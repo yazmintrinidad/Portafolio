@@ -9,18 +9,31 @@ function Nav (){
       </button>
       <div className="collapse navbar-collapse " id="navbar-toggler">
         <a className="navbar-brand text-white" href="#">  
-          <img src={require("../Imagenes/Logo.Png")}  width="50" alt="" />
+          <img src={require("../Imagenes/logo1.jpg")}  width="60" alt="" />
         </a>
+
         <ul className="navbar-nav d-flex justify-content-center align-items-center">
-          <li className="nav-item">
+                  <li className="nav-item">
             <a className="nav-link active text-white" href="#About-me">About me</a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link text-white" href="#Educacion">Education</a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link text-white" href="#Habilidades">Skills</a>
+          </li>
+        
+          <li className="nav-item">
+            <a className="nav-link text-white" href="#Experience">Experience</a>
           </li>
           <li className="nav-item">
             <a className="nav-link text-white" href="#proyectos">Projects</a>
           </li>
+          
           <li className="nav-item">
             <a className="nav-link text-white" href="#contacto">Contact</a>
           </li>
+
         </ul>
       </div>
     </div>

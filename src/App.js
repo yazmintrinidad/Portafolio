@@ -2,10 +2,12 @@ import './App.css';
 import Nav from './Componentes/Nav';
 import Hero from './Componentes/Hero';
 import SobreMi from './Componentes/SobreMi';
+import Educacion from './Componentes/Educacion';
 import Experience from './Componentes/Experience';
 import Proyectos from './Componentes/Proyectos';
 import Testimonios from './Componentes/Testimonios';
 import PieDePagina from './Componentes/PieDePagina';
+import Habilidades from './Componentes/Habilidades';
 
 function App() {
   return (
@@ -26,6 +28,19 @@ function App() {
         <SobreMi />
 
         <hr style={{color:"white"}}></hr>
+
+         {/* Educacion */}
+
+         <Educacion />
+
+<hr style={{color:"white"}}></hr>
+
+  {/* Habilidades */}
+
+  <Habilidades />
+
+<hr style={{color:"white"}}></hr>
+
 
         {/* Experience */}
 
@@ -86,25 +101,25 @@ function App() {
 
         <section className="testimonios text-white">
           <h2>Testimonios</h2>
-          <h3>Estos son algunos testimonios de mis clientes.</h3>
+          <h3>Estos son algunos testimonios.</h3>
           <div id="carouselExampleDark" className="carousel carousel-dark slide">
             <div className="carousel-inner">
               <Testimonios
                 active="active"
                 imagen= "cliente1"  
-                nombre= "Luis"
+                nombre= "David"
               />
 
               <Testimonios
                 active=""
                 imagen= "cliente2"  
-                nombre= "Martha"
+                nombre= "Fernanda"
               />
 
               <Testimonios
                 active=""
                 imagen= "cliente3"  
-                nombre= "Daniel"
+                nombre= "Sergio"
               />
             </div>
             <button className="carousel-control-prev" type="button"             data-bs-target="#carouselExampleDark" data-bs-slide="prev">

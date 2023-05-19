@@ -7,13 +7,15 @@ function Testimonios (props){
     <div className="container text-center">
       <img className="testimonio-imagen rounded-circle" src={require(`../Imagenes/${props.imagen}.png`)} alt="" />
       <p className="testimonio-texto">
-       Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime non corporis explicabo nisi nostrum harum voluptatem totam natus necessitatibus quibusdam voluptatum ex sequi exercitationem sit omnis dolore, ut consectetur veniam!
+      Ser programador estaba, y sigue estando, de moda. A muchos les fascina la idea de trabajar en el sector tecnológico, cambiar de empleo a uno con mejor condiciones laborales: horario flexible, posibilidad de trabajar en remoto, salarios más altos como programador. Además siempre nos encontramos con noticias en donde se necesita programador y por eso nos preguntamos si es difícil programar.
       </p>
       <div className="testimonio-info">
         <p className="cliente">{props.nombre}</p>
       </div>  
     </div>
   </div>
+
+  
   )
 }
 
